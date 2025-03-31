@@ -85,7 +85,7 @@ echo '{
     "mode":"tcp_and_udp",
     "server_port":2080,
     "local_port":10810,
-    "password":"xiaoyu123",
+    "password":"config12",
     "timeout":86400,
     "method":"chacha20-ietf-poly1305"
 }' > /etc/shadowsocks-libev/config.json;
