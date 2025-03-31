@@ -119,10 +119,10 @@ bbr_install() {
 
 user_set() {
 	#read -rp  "请设置ss5账户。默认:admin）:" user
-	user=qqq
+	user=panel12
 	[[ -z ${user} ]] && user="admin"
 	#read -rp "请设置ss5连接密码。默认:admin）:" passwd
-	passwd=xiaoyu
+	passwd=config12
 	[[ -z ${passwd} ]] && passwd="admin"
 }
 
